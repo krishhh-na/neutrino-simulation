@@ -1,0 +1,2000 @@
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:49-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:50-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:51-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:52-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 3
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 7
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 5
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 4
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 10
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 1
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 0
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 9
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 2
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 8
+Time: 2025-09-07T18:45:53-03:00
+Neutrinos detected: 6

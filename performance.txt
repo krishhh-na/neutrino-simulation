@@ -1,0 +1,3 @@
+Tiempo total: 4.567 s
+Intervalo promedio entre archivos: 4.525 ms
+Archivos generados: 1000
